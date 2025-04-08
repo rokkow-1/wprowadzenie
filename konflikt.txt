@@ -1,2 +1,3 @@
 Próba konfliktu
-To jest wersja z BRANCH2
+To jest wersja z BRANCH2 i BRANCH3
+
