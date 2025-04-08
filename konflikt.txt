@@ -1,0 +1,2 @@
+Próba konfliktu
+To jest wersja z BRANCH2
