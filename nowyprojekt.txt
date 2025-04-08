@@ -3,3 +3,4 @@ Przedstawienie założeń projektu
 Przedstawienie wymagań projektowych
 Czas reazlizacji projektu nie powinien być dłuższy niż 3 miesiące
 Wnioski końcowe
+Rekomendacje
