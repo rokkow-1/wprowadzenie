@@ -1,2 +1,3 @@
 To jest nowy plik
 Wprowadzenie nowego tekstu do pliku
+Nowy wiersz tekstu
